@@ -7,5 +7,4 @@ Webotron currrently has the following feature:
 
 - List bucket
 - List contents of a bucket
-
-test asdfasdfsda
+- Create and setup a public bucket
