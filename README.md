@@ -8,3 +8,4 @@ Webotron currrently has the following feature:
 - List bucket
 - List contents of a bucket
 - Create and setup a public bucket
+- Sync directory tree to bucket
