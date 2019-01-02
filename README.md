@@ -9,3 +9,4 @@ Webotron currrently has the following feature:
 - List contents of a bucket
 - Create and setup a public bucket
 - Sync directory tree to bucket
+- Added ability to set profile for script
